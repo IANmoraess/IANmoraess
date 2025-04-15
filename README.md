@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ian moraes, tenho 18 anos e sou natural do estado de São Paulo. estou cursando o ensino médio na ETEC Astor de Mattos Carvalho, com o curso integrado de técnico em informática para internet. Tenho um interesse genuíno por tecnologia, estudo e adquiro meu conhecimento da area através do YouTube "[Curso em Video](https://www.youtube.com/c/CursoemV%C3%ADdeo)" .
+Me chamo Ian moraes, tenho 18 anos e sou natural do estado de São Paulo. estou cursando o ensino médio na ETEC, com o curso integrado de técnico em informática para internet. Tenho um interesse genuíno por tecnologia, estudo e adquiro meu conhecimento da area através do YouTube "[Curso em Video](https://www.youtube.com/c/CursoemV%C3%ADdeo)" .
 
 <p align="left">
     <!-- <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
