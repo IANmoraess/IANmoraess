@@ -33,7 +33,7 @@ Tenho interesse em desenvolvimento de software, com foco em aplicações web, AP
 **Tecnologias complementares**
 
 <p>
-  <img alt="Blade" title="Laravel Blade" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blade/blade-original.svg" />
+  <img alt="Blade" title="Laravel Blade" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
