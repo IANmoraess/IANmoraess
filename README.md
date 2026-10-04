@@ -1,46 +1,43 @@
 # 👨‍💻 Ian Moraes
 
-### Desenvolvedor Full Stack
+### Full Stack Developer
 
-Desenvolvedor de software e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, interessado na criação de aplicações web, APIs e soluções mobile.
+Software developer and **Systems Analysis and Development** student, interested in building web applications, APIs, and mobile solutions.
 
-Busco desenvolver soluções eficientes e bem estruturadas, aprimorando continuamente meus conhecimentos em programação, arquitetura de software e boas práticas de desenvolvimento.
+I strive to build efficient, well-structured software while continuously improving my skills in programming, software architecture, and development best practices.
 
 ---
 
 ### `01` · Tech Stack
 
-**Linguagens**
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,dart,html,css&theme=dark" alt="PHP, JavaScript, Dart, HTML e CSS" />
+  <img src="https://skillicons.dev/icons?i=php,js,dart,html,css&theme=dark" alt="PHP, JavaScript, Dart, HTML, and CSS" />
 </p>
 
-**Frameworks e bibliotecas**
+**Frameworks & Libraries**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,flutter,tailwind&theme=dark" alt="Laravel, React, Flutter e Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,flutter,tailwind&theme=dark" alt="Laravel, React, Flutter, and Tailwind CSS" />
 </p>
 
-**Ferramentas**
+**Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and Visual Studio Code" />
 </p>
 
-**Outras tecnologias:** Laravel Blade · jQuery
+**Additional Technologies:** Laravel Blade · jQuery
 
 ---
 
-### `02` · Interesses
+### `02` · Featured Project
 
-- Desenvolvimento back-end e criação de APIs.
-- Desenvolvimento front-end e interfaces responsivas.
-- Desenvolvimento mobile com Flutter e Dart.
-- Arquitetura de software e boas práticas de programação.
+### 🧩 Dasypus — Alternative Communication App
 
----
+A mobile application for **Augmentative and Alternative Communication (AAC)**, developed with Flutter to support communication through visual symbols and accessible interfaces for people with communication difficulties.
 
-<p align="center">
-  <sub>Sempre aprendendo. Sempre construindo.</sub>
-</p>
+**Stack:** Flutter · Dart · PHP · SQL
+
+The project aims to facilitate everyday communication through an intuitive, accessible interface, allowing caregivers to manage user profiles and personalize the communication experience.
